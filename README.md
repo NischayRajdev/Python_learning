@@ -16,6 +16,7 @@ This repository documents my journey of learning Python—from understanding the
 - Countdown Timer
 - Pomodoro Timer
 - To-Do List
+- Student Grade manager
 
 More projects will be added as I continue learning.
 
